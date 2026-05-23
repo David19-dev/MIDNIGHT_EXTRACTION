@@ -1,1 +1,8 @@
 # Shot_22
+
+![[SHOT_22_—_Black_Veil_202605222312.jpeg]]
+**SHOT 22 — Black Veil Checkpoints Dominate City Streets**
+
+**Cinematic Prompt:**
+
+Ultra-realistic cinematic occupation checkpoint scene in downtown Santa Monica after the Black Veil takeover, massive Black Veil military checkpoint controlling a rain-soaked city intersection surrounded by tall business district skyscrapers, matte-black armored transport trucks and tactical vehicles blocking all streets, heavily armed Black Veil elite soldiers with glowing red visors inspecting civilians under harsh floodlights, frightened civilians standing in long processing lines behind metal barricades with hands visible, drones hovering overhead scanning crowds with red search beams, giant digital billboards displaying Black Veil propaganda messages and curfew warnings, abandoned civilian vehicles pushed aside near concrete barriers, razor wire, portable surveillance towers, and automated checkpoints creating a militarized occupation zone, smoke rising from distant fires between office towers, wet reflective streets illuminated by red tactical lighting and police sirens, atmosphere of fear and authoritarian control, psychologically oppressive military presence, grounded near-future realism, cinematic anamorphic composition, volumetric rain and fog, AAA cinematic concept art, ultra-detailed environment, 8K, emotionally cold atmosphere, the city fully transformed into an occupied territory controlled by Black Veil.

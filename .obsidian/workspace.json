@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_MASTER_INDEX/Visual_Language.md",
+                "file": "06_STORYBOARD/SCENE_1/SHOT 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Visual_Language"
+              "title": "SHOT 1"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_MASTER_INDEX/Visual_Language.md",
+                "file": "06_STORYBOARD/SCENE_1/SHOT 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Visual_Language"
+              "title": "Backlinks for SHOT 1"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_MASTER_INDEX/Visual_Language.md",
+                "file": "06_STORYBOARD/SCENE_1/SHOT 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Visual_Language"
+              "title": "Outgoing links from SHOT 1"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_MASTER_INDEX/Visual_Language.md",
+                "file": "06_STORYBOARD/SCENE_1/SHOT 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Visual_Language"
+              "title": "Outline of SHOT 1"
             }
           }
         ]
@@ -185,43 +185,44 @@
   },
   "active": "37b797778c0e6c59",
   "lastOpenFiles": [
-    "00_MASTER_INDEX/Timeline.md",
-    "00_MASTER_INDEX/Themes.md",
-    "00_MASTER_INDEX/Project_Overview.md",
-    "00_MASTER_INDEX/Production_Status.md",
-    "00_MASTER_INDEX/Canon_Rules.md",
-    "01_WORLD_BUILDING/Occupation_Infrastructure/Checkpoints.md",
-    "01_WORLD_BUILDING/Occupation_Infrastructure/BLACK_VEIL_Occupation_Infrastructure_Worldbuilding_Sheet.jpg.jpeg",
-    "01_WORLD_BUILDING/Occupation_Infrastructure/#_BLACK_VEIL_OCCUPATION_checkpoint.jpeg",
-    "01_WORLD_BUILDING/Occupation_Infrastructure/Refugee_Zones.md",
-    "01_WORLD_BUILDING/Occupation_Infrastructure/Surveillance_Towers.md",
-    "01_WORLD_BUILDING/Occupation_Infrastructure/Propaganda_Network.md",
-    "01_WORLD_BUILDING/Occupation_Infrastructure/Curfew_Systems.md",
-    "01_WORLD_BUILDING/Occupation_Infrastructure/Bridge_Blockades.md",
-    "02_CHARACTERS/BLACK_VEIL/Standard_Soldiers.md",
-    "02_CHARACTERS/BLACK_VEIL/Elite_Red_Eye_Division.md",
-    "02_CHARACTERS/BLACK_VEIL/Drone_Operators.md",
-    "02_CHARACTERS/BLACK_VEIL/Adrian_Kane.md",
-    "11_REFERENCE_IMAGES/Vehicles/BLACK_VEIL_Armored_Transport_Truck.md.md",
+    "08_VISUAL_BIBLE/Cinematic_References.md",
+    "06_STORYBOARD/SCENE_1/SHOT 1.md",
+    "06_STORYBOARD/SCENE_1",
+    "08_VISUAL_BIBLE/Color_Grading.md",
+    "08_VISUAL_BIBLE/Destruction_Continuity.md",
+    "08_VISUAL_BIBLE/Camera_Language.md",
+    "08_VISUAL_BIBLE/Atmosphere_Rules.md",
+    "14_TEMP/__BLACK_VEIL_LOGO_—_MASTER_202605221702 (1).jpeg",
+    "14_TEMP/_NANO_BANANA_PROMPT_ _202605221549.jpeg",
     "11_REFERENCE_IMAGES/Characters/BLACK_VEIL_Commander_Krane_Character_Design_Sheet.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/Shot_17.md",
-    "11_REFERENCE_IMAGES/Vehicles/BLACK_VEIL_Armored_Transport_Truck_Design_Sheet.jpg.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/SHOT_17_Bridge_Escape_Failure.jpg.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/Shot_16.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/SHOT_16_Families_Fleeing_City_Collapse.jpg.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/Shot_15.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/SHOT_15_Police_Last_Stand.jpg.jpeg",
-    "SHOT_15_Police_Last_Stand.jpg.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_4_The_Occupation/Shot_26.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_4_The_Occupation/Shot_24.md",
     "06_STORYBOARD/PROLOGUE/Sequence_4_The_Occupation/Shot_23.md",
-    "SHOT_23_Black_Veil_Propaganda_Takeover.jpg.md",
-    "11_REFERENCE_IMAGES/Occupation/SHOT_23_Black_Veil_Propaganda_Takeover.jpeg",
-    "14_IMPORTS/_BLACK_VEIL_COMMANDER_—_202605221442.jpeg",
-    "03_BLACK_VEIL/Surveillance_Network.md",
-    "03_BLACK_VEIL/Psychological_Warfare.md",
-    "03_BLACK_VEIL/Propaganda_System.md",
-    "03_BLACK_VEIL/Occupation_Strategy.md",
-    "03_BLACK_VEIL/Military_Doctrine.md",
-    "14_IMPORTS",
+    "06_STORYBOARD/PROLOGUE/Sequence_4_The_Occupation/Shot_22.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_06.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_05.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_04.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_03.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_02.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_01.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_14.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/SHOT_14_—_BLACK_202605221709.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_13.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_13_—_DRONE_MISSILE_202605221648.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_12.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_12_—_“THE_CONVOY_202605221642.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_11.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_11_—_CIVILIANS_PANIC_202605221617.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_10.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_10_—_BLACK_VEIL_202605221613.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_09.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/S08.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_9_—_COMMUNICATION_CENTER_202605221606.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_08.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_07.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/Shot_21.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/Shot_20.md",
+    "14_TEMP",
     "Nouveau dossier"
   ]
 }

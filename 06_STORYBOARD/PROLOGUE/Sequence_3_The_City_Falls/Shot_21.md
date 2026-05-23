@@ -1,1 +1,8 @@
 # Shot_21
+
+![[SHOT_21_—_Avah_Nurse_202605222304.jpeg]]
+**SHOT 21 — Avah Organizes Civilians Inside Saint Mercy Hospital**
+
+**Cinematic Prompt:**
+
+Ultra-realistic cinematic hospital survival scene during the Black Veil occupation of Santa Monica, overcrowded emergency shelter area inside Saint Mercy Hospital illuminated by unstable backup generator lighting and flashing red lockdown alarms, Avah Reyes standing at the center of frightened civilians while organizing evacuation groups and calming panicked families, emotionally exhausted but maintaining strong leadership presence, civilians sitting against hospital walls wrapped in blankets, injured patients receiving emergency treatment on the floor, nurses carrying medical supplies through crowded hallways, crying children clinging to parents, distant gunfire and muffled explosions echoing through the building, Black Veil drones scanning outside rain-covered hospital windows with red surveillance beams entering the corridor, security doors sealed shut, emergency monitors flickering with system instability, cold blue hospital lighting mixed with aggressive red emergency glow, reflective wet floors, smoke haze drifting through ventilation, atmosphere of fear, exhaustion, and fragile hope, grounded military thriller realism, emotionally human survival atmosphere, cinematic anamorphic lens, shallow depth of field, highly detailed faces and environment, AAA cinematic concept art, 8K, realistic panic and emotional leadership, Avah becoming the emotional protector of the civilians trapped inside Saint Mercy Hospital.

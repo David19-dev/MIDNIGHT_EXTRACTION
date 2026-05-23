@@ -1,7 +1,6 @@
 # Shot 15 — Police Last Stand
 
-![[SHOT_15_Police_Last_Stand.jpg]]
-
+![[06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/SHOT_15_Police_Last_Stand.jpg.jpeg]]
 ## Sequence
 Prologue → Sequence 3 → The City Falls
 

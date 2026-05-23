@@ -1,1 +1,8 @@
 # Shot_20
+
+![[SHOT_20_—_Kiley_Hears_202605222258.jpeg]]
+**SHOT 20 — Kiley Hears Gunfire Near the Maternity Ward**
+
+**Cinematic Prompt:**
+
+Ultra-realistic cinematic maternity ward scene during the Black Veil occupation of Santa Monica, Saint Mercy Hospital maternity floor under emergency lockdown, Kiley Morgan standing frozen beside newborn twins inside a dimly lit hospital recovery room after hearing distant automatic gunfire echo through the corridor, emotional terror visible on her face, trembling hands protecting the babies instinctively, soft hospital bassinets beside her bed, unstable overhead lights flickering from backup generators, red emergency alarm glow bleeding through the partially opened doorway, distant shouting and muffled panic outside the room, rain streaking across hospital windows while faint red drone scan lights move outside the building, television screen nearby displaying corrupted emergency broadcast static, atmosphere of vulnerability and maternal fear, cinematic smoke haze drifting through hallway light, grounded military thriller realism, intimate emotional cinematography, shallow depth of field focused on Kiley and the twins, cold blue hospital tones mixed with red emergency lighting, realistic exhaustion and panic, highly detailed environment, AAA cinematic concept art, 8K, emotionally devastating atmosphere, the moment a mother realizes the war is reaching her children.

@@ -1,1 +1,8 @@
 # Shot_19
+
+![[SHOT_19_—_Saint_Mercy_202605222252.jpeg]]
+**SHOT 19 — Saint Mercy Hospital Enters Lockdown**
+
+**Cinematic Prompt:**
+
+Ultra-realistic cinematic hospital lockdown scene during the Black Veil invasion of Santa Monica, exterior and interior of Saint Mercy Hospital under emergency containment, heavy rain pouring outside illuminated by flashing red emergency lights, hospital automatic security doors sealing shut, terrified civilians and patients rushing through corridors, nurses locking medical wings while alarms flash across digital monitors, emergency generators activating with unstable lighting flickers, frightened doctors pushing patients on stretchers, armed LAPD officers guarding hospital entrance with rifles raised toward distant explosions outside, Black Veil drones hovering beyond rain-covered hospital windows scanning the building with red search beams, maternity ward signs visible deeper in the corridor, hospital PA system announcing lockdown procedures, atmosphere of panic and isolation, cold blue hospital lighting mixed with red emergency glow, cinematic smoke haze, grounded military thriller realism, emotional tension, cinematic depth of field, anamorphic lens, highly detailed reflections on wet floors, AAA cinematic concept art, 8K, realistic human emotion, survival atmosphere, Saint Mercy Hospital becoming one of the last safe zones in occupied Santa Monica.

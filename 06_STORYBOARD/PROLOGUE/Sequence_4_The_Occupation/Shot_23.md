@@ -1,6 +1,13 @@
 # Shot 23 — Black Veil Propaganda Takeover
 
-![[SHOT_23_Black_Veil_Propaganda_Takeover.jpg]]
+![[SHOT_23_—_Overhead_City_202605222322.jpeg]]
+
+
+**SHOT 23 — Drone Surveillance Scans Civilians From Above**
+
+**Cinematic Prompt:**
+
+Ultra-realistic cinematic dystopian surveillance scene in occupied Santa Monica at night during heavy rain, terrified civilians being scanned and monitored by Black Veil surveillance drones hovering low above crowded streets, red scanning beams sweeping across faces and bodies while civilians stand silently in checkpoint lines, Black Veil soldiers with matte-black armor and glowing red visors patrolling among the crowd with assault rifles ready, towering business district buildings covered with giant propaganda screens displaying the Black Veil logo and curfew warnings, armored occupation vehicles parked beside concrete barricades and razor wire, civilians appearing exhausted, fearful, and emotionally broken, some shielding children while others are forced through identity scanning stations, overhead floodlights creating harsh reflections on rain-soaked streets, cinematic fog and smoke drifting between skyscrapers, atmosphere of psychological oppression and constant surveillance, cold blue-gray color palette contrasted with aggressive red tactical lighting, grounded near-future realism, cinematic anamorphic framing, volumetric lighting, highly detailed faces and environment, AAA sci-fi military thriller concept art, 8K, emotionally oppressive and authoritarian tone.
 
 ## Sequence
 Prologue → Sequence 4 → The Occupation
