@@ -1,7 +1,6 @@
 # SPC TAHA — MAIN CHARACTER DOSSIER
 
-![SPC Taha Portrait](../11_REFERENCE_IMAGES/Characters/SPC_Taha.png)
-
+![[02_CHARACTERS/MAIN_CHARACTERS/SPC_Taha.jpeg]]
 ---
 
 ## CHARACTER OVERVIEW
@@ -10,8 +9,8 @@
 **Role:** Main protagonist / military operator  
 **Affiliation:** Friendly Forces  
 **Rank:** Specialist (SPC)  
-**Height:** 5'10  
-**Age:** Mid 30s  
+**Height:** 6'5  
+**Age:** 29  
 
 ---
 

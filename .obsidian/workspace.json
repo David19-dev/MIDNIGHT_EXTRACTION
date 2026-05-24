@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4b36357dddcc97e3",
+        "id": "459cc01fd1382162",
         "type": "tabs",
         "children": [
           {
-            "id": "37b797778c0e6c59",
+            "id": "b30df90bdc0451ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "06_STORYBOARD/SCENE_1/SHOT 1.md",
-                "mode": "source",
-                "source": false
+                "file": "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/S08.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "SHOT 1"
+              "icon": "lucide-image",
+              "title": "S08"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 238.5
   },
   "right": {
     "id": "949d5c5ebc9629d6",
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06_STORYBOARD/SCENE_1/SHOT 1.md",
+                "file": "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/S08.jpeg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SHOT 1"
+              "title": "Backlinks for S08"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06_STORYBOARD/SCENE_1/SHOT 1.md",
+                "file": "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/S08.jpeg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SHOT 1"
+              "title": "Outgoing links from S08"
             }
           },
           {
@@ -156,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06_STORYBOARD/SCENE_1/SHOT 1.md",
+                "file": "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/S08.jpeg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SHOT 1"
+              "title": "Outline of S08"
             }
           }
         ]
@@ -183,45 +181,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "37b797778c0e6c59",
+  "active": "b30df90bdc0451ac",
   "lastOpenFiles": [
-    "08_VISUAL_BIBLE/Cinematic_References.md",
-    "06_STORYBOARD/SCENE_1/SHOT 1.md",
-    "06_STORYBOARD/SCENE_1",
-    "08_VISUAL_BIBLE/Color_Grading.md",
-    "08_VISUAL_BIBLE/Destruction_Continuity.md",
-    "08_VISUAL_BIBLE/Camera_Language.md",
-    "08_VISUAL_BIBLE/Atmosphere_Rules.md",
-    "14_TEMP/__BLACK_VEIL_LOGO_—_MASTER_202605221702 (1).jpeg",
-    "14_TEMP/_NANO_BANANA_PROMPT_ _202605221549.jpeg",
-    "11_REFERENCE_IMAGES/Characters/BLACK_VEIL_Commander_Krane_Character_Design_Sheet.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_4_The_Occupation/Shot_26.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_4_The_Occupation/Shot_24.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_4_The_Occupation/Shot_23.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_4_The_Occupation/Shot_22.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_07.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/S08.jpeg",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/shot2.jpeg",
     "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_06.md",
     "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_05.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_04.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_03.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_08.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_9_—_COMMUNICATION_CENTER_202605221606.jpeg",
     "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_02.md",
     "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_01.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_14.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/SHOT_14_—_BLACK_202605221709.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_13.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_13_—_DRONE_MISSILE_202605221648.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_12.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_12_—_“THE_CONVOY_202605221642.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_11.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_11_—_CIVILIANS_PANIC_202605221617.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_10.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_10_—_BLACK_VEIL_202605221613.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_09.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/S08.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/__SHOT_9_—_COMMUNICATION_CENTER_202605221606.jpeg",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_08.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_2_Black_Veil_Attack/Shot_07.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/Shot_21.md",
-    "06_STORYBOARD/PROLOGUE/Sequence_3_The_City_Falls/Shot_20.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 1.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/s1.jpeg",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 2/Shot 11 - 14.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 2/s13.jpeg",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 2/s11.jpeg",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 2/s12.jpeg",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 10.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 2",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/s10.jpeg",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 9.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/s9.jpeg",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 8.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/s8.jpeg",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 7.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 6.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 4.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 3.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 2.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT/Shot 5.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_03.md",
+    "06_STORYBOARD/PROLOGUE/Sequence_1_Normal_Evening/Shot_04.md",
+    "02_CHARACTERS/MAIN_CHARACTERS/SPC_Taha 1.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight/SEQUENCE 1 — FORT LEONARD WOOD ESTABLISHMENT",
+    "02_CHARACTERS/MAIN_CHARACTERS/PFC JEROME.md",
+    "02_CHARACTERS/MAIN_CHARACTERS/PFC_Sara.md",
+    "02_CHARACTERS/MAIN_CHARACTERS/LT_Lemay.md",
+    "02_CHARACTERS/MAIN_CHARACTERS/Kiley_Morgan.md",
+    "02_CHARACTERS/MAIN_CHARACTERS/Avah_Reyes.md",
+    "06_STORYBOARD/SCENE_1 The Call Before Midnight",
     "14_TEMP",
     "Nouveau dossier"
   ]
